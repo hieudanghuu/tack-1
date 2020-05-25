@@ -1,0 +1,58 @@
+.main {
+    background-color: rgb(39, 39, 39);
+    width: 240pt;
+    height: 436.7pt;
+    display: flex;
+    flex-direction: column;
+}
+.main .logo {
+    padding:  27.3pt 72pt;
+    width:  96pt;
+    height:  20pt;
+
+}
+.main .bg {
+    
+        background: url(bg.jpg) no-repeat center center/cover;
+        width: 166.7pt;
+        height: 166.7pt;
+        border-radius: 6.7pt;
+        margin: 0 36.7pt;
+  
+}
+.main .text a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.main .text {
+    padding:17pt 0 0 36.3pt;
+}
+.price { 
+    display: flex;
+}
+.price .price-1 {
+    color: rgb(255 , 0, 108);
+    font-size: 12pt;
+    margin: 7.7pt 0 0 0;
+}
+.price .price-2 {
+    color: rgb(144, 144, 144);
+    font-size: 10pt;
+    padding-left: 7.3pt;
+    padding-top: 1.7pt;
+    margin: 7.7pt 0 0 0;
+    text-decoration: line-through;
+}
+.logo-mobile {
+    display: flex;
+    padding: 16.3pt 0 0 36.7pt;
+}
+.logo-mobile img {
+    width: 78.9pt ;
+    height: 23.3pt;
+}
+.logo-mobile .img-1 {
+    padding-left: 9.3pt;
+}
+
