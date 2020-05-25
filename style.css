@@ -13,7 +13,7 @@
 }
 .main .bg {
     
-        background: url(bg.jpg) no-repeat center center/cover;
+        background: url(images/bg-1.png) no-repeat center center/cover;
         width: 166.7pt;
         height: 166.7pt;
         border-radius: 6.7pt;
@@ -55,4 +55,20 @@
 .logo-mobile .img-1 {
     padding-left: 9.3pt;
 }
+.text .price-0 {
+    background-color: rgb(255 , 0, 108);
+    color: rgb(255, 255, 255);
+    font-size: 10pt;
+    margin: 0 0 7.7pt 0 ;
+    float: left;
+}
+.text .text-1 {
+    background-color: rgb(255 , 0, 108);
+    color: rgb(255, 255, 255);
+    font-size: 10pt;
+    margin: 0 0 7.7pt 0 ;
+    
+}
+
+
 
